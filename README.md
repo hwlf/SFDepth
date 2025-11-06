@@ -8,9 +8,10 @@ This project focuses on self-supervised depth estimation.
 
 ## Setup
 ```shell
-conda install pytorch=0.4.1 torchvision=0.2.1 -c pytorch
-pip install tensorboardX==1.4
-conda install opencv=3.3.1   # just needed for evaluation
+pip install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1
+pip install tensorboardX==2.6.2.2 opencv-python matplotlib
+pip install mmcv==2.0.0rc4 mmsegmentation==1.2.2
+pip install timm einops IPython
 ```
 
 ## Inference single image
