@@ -1,7 +1,8 @@
 # SFDepth
 This project focuses on self-supervised depth estimation.
 > **Enhanced monocular depth estimation via semantic fusion and planar constraints**
-> Wenhao Li, Chunyu Peng, Zhensong Li, Shoubiao Tan*, Ting Wang, Xiao Wei
+>
+>  Wenhao Li, Chunyu Peng, Zhensong Li, Shoubiao Tan*, Ting Wang, Xiao Wei
 > https://doi.org/10.5281/zenodo.17606484
 
 ![Local Image](https://github.com/hwlf/SFDepth/blob/main/img/1.png)
