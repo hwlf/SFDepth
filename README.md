@@ -1,6 +1,6 @@
 # SFDepth
 This project focuses on self-supervised depth estimation.
-> **SFP-Depth:Self-supervised monocular depth estimation based on semantic fusion and planar constraints**
+> **Enhanced monocular depth estimation via semantic fusion and planar constraints**
 > Wenhao Li, Chunyu Peng, Zhensong Li, Shoubiao Tan*, Ting Wang, Xiao Wei
 > https://doi.org/10.5281/zenodo.17606484
 
